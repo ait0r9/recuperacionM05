@@ -1,0 +1,10 @@
+c:\users\aitor\documents\visual studio 2015\Projects\mo5RecuperacionUF1\servidor\bin\Debug\servidor.exe.config
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\bin\Debug\servidor.exe.config
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\bin\Debug\servidor.exe
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\bin\Debug\servidor.pdb
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\obj\Debug\servidor.Properties.Resources.resources
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\obj\Debug\servidor.ServidorForm1.resources
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\obj\Debug\servidor.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\obj\Debug\servidor.exe
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\servidor\obj\Debug\servidor.pdb

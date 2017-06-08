@@ -1,0 +1,9 @@
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\bin\Debug\cliente.exe.config
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\bin\Debug\cliente.exe
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\bin\Debug\cliente.pdb
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\obj\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\obj\Debug\cliente.ClienteForm1.resources
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\obj\Debug\cliente.Properties.Resources.resources
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\obj\Debug\cliente.csproj.GenerateResource.Cache
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\obj\Debug\cliente.exe
+C:\Users\Aitor\Documents\Visual Studio 2015\Projects\mo5RecuperacionUF2-3\cliente\obj\Debug\cliente.pdb
